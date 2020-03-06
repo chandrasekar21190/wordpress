@@ -1,0 +1,464 @@
+2020-02-28T06:19:51+00:00 INFO Generating payment form for order 206. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T06:19:51+00:00 INFO PayPal Request Args for order 206: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/206/?key=wc_order_omTQqAwbMCZ6T&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_omTQqAwbMCZ6T&order_id=206&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-206
+    [custom] => {"order_id":206,"order_key":"wc_order_omTQqAwbMCZ6T"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [discount_amount_cart] => 50.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T09:30:30+00:00 INFO Generating payment form for order 209. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T09:30:30+00:00 INFO PayPal Request Args for order 209: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/209/?key=wc_order_qVa2o9MLdaKTq&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_qVa2o9MLdaKTq&order_id=209&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-209
+    [custom] => {"order_id":209,"order_key":"wc_order_qVa2o9MLdaKTq"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T09:48:34+00:00 INFO Generating payment form for order 210. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T09:48:34+00:00 INFO PayPal Request Args for order 210: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/210/?key=wc_order_08mWcSTNUjnRt&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_08mWcSTNUjnRt&order_id=210&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-210
+    [custom] => {"order_id":210,"order_key":"wc_order_08mWcSTNUjnRt"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T09:53:40+00:00 INFO Generating payment form for order 211. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T09:53:40+00:00 INFO PayPal Request Args for order 211: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/211/?key=wc_order_AcZ1xujA1McmX&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_AcZ1xujA1McmX&order_id=211&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-211
+    [custom] => {"order_id":211,"order_key":"wc_order_AcZ1xujA1McmX"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [item_name_2] => College Bags - Blue
+    [quantity_2] => 2
+    [amount_2] => 480
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T10:12:11+00:00 INFO Generating payment form for order 211. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T10:12:11+00:00 INFO PayPal Request Args for order 211: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/211/?key=wc_order_AcZ1xujA1McmX&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_AcZ1xujA1McmX&order_id=211&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-211
+    [custom] => {"order_id":211,"order_key":"wc_order_AcZ1xujA1McmX"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [item_name_2] => College Bags - Blue
+    [quantity_2] => 2
+    [amount_2] => 480
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T10:16:28+00:00 INFO Generating payment form for order 212. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T10:16:28+00:00 INFO PayPal Request Args for order 212: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/212/?key=wc_order_7WVkCVAhVsYyk&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_7WVkCVAhVsYyk&order_id=212&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-212
+    [custom] => {"order_id":212,"order_key":"wc_order_7WVkCVAhVsYyk"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [item_name_2] => College Bags - Blue
+    [quantity_2] => 2
+    [amount_2] => 480
+    [item_number_2] => 
+    [item_name_3] => Smart Watch
+    [quantity_3] => 1
+    [amount_3] => 1850
+    [item_number_3] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T11:56:53+00:00 INFO Generating payment form for order 213. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T11:56:53+00:00 INFO PayPal Request Args for order 213: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/213/?key=wc_order_K7YFCFs4BSGPb&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_K7YFCFs4BSGPb&order_id=213&redirect&_wpnonce=e0d1318a9f
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-213
+    [custom] => {"order_id":213,"order_key":"wc_order_K7YFCFs4BSGPb"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T12:04:11+00:00 INFO Generating payment form for order 214. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T12:04:11+00:00 INFO PayPal Request Args for order 214: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/214/?key=wc_order_aNjCIyUcBeSdW&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_aNjCIyUcBeSdW&order_id=214&redirect&_wpnonce=c50c62217d
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-214
+    [custom] => {"order_id":214,"order_key":"wc_order_aNjCIyUcBeSdW"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [item_name_2] => College Bags - Yellow
+    [quantity_2] => 1
+    [amount_2] => 300
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T12:38:31+00:00 INFO Generating payment form for order 216. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T12:38:31+00:00 INFO PayPal Request Args for order 216: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/216/?key=wc_order_ghRi5qYMVVzlg&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_ghRi5qYMVVzlg&order_id=216&redirect&_wpnonce=c50c62217d
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-216
+    [custom] => {"order_id":216,"order_key":"wc_order_ghRi5qYMVVzlg"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T13:10:00+00:00 INFO Generating payment form for order 217. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T13:10:00+00:00 INFO PayPal Request Args for order 217: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/217/?key=wc_order_UFpite4CCUvNy&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_UFpite4CCUvNy&order_id=217&redirect&_wpnonce=c50c62217d
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-217
+    [custom] => {"order_id":217,"order_key":"wc_order_UFpite4CCUvNy"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [item_name_2] => College Bags - Yellow
+    [quantity_2] => 1
+    [amount_2] => 300
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-28T13:29:21+00:00 INFO Generating payment form for order 218. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-28T13:29:22+00:00 INFO PayPal Request Args for order 218: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/218/?key=wc_order_7hfvVXuaZdm26&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_7hfvVXuaZdm26&order_id=218&redirect&_wpnonce=c50c62217d
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-218
+    [custom] => {"order_id":218,"order_key":"wc_order_7hfvVXuaZdm26"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

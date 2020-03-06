@@ -1,0 +1,870 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Sales Countdown Timer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-01 03:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. Name of the plugin
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:30
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:614
+msgid "Sales Countdown Timer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:30
+msgid "Countdown Timer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:37
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:38
+msgid "Checkout Countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:48
+msgid "Checkout Countdown Timer For WooCommerce"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:55
+msgid "General Settings"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:61
+msgid "Display checkout countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:66
+msgid "Design on checkout page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:71
+msgid "Design on other page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:82
+msgid "Video Preview"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:90
+msgid ""
+"Note*: Changes in these settings will not be applied to carts which are "
+"already in a checkout countdown."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:96
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1422
+msgid "Enable"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:101
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:112
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:125
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:145
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:159
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:183
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:194
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:226
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:246
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:271
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:283
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:295
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:307
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:319
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:337
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:349
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:361
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:373
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:385
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:403
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:414
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:459
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:470
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:487
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:498
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:543
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:554
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:576
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:589
+msgid "Unlock This Feature"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:107
+msgid "Reset Countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:114
+msgid ""
+"Reset checkout countdown for a cart after this time if customer does not "
+"place order during checkout countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:120
+msgid "Countdown time"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:127
+msgid ""
+"The maximum valid time that this offer bellow are applied. When time hits "
+"zero, offer will be gone"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:133
+msgid "Starting condition"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:141
+msgid "Action"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:148
+msgid "Start checking if a cart is qualified to get offer when:"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:154
+#, php-format
+msgid "Min cart total(%s)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:162
+msgid "Minimum cart total to get offer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:171
+msgid "Checkout countdown offer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:179
+msgid "Free Shipping"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:190
+msgid "Discount amount"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:199
+msgid "Customers will get this offer before checkout countdown time hits zero"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:206
+msgid ""
+"Below options are used if you want to change offer when the countdown hits "
+"specific values"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:209
+msgid "None: The current discount is applied until the countdown hits zero"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:211
+msgid ""
+"Auto change: Decrease the current discount by a specific percentage every X "
+"minute(s) or second(s)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:213
+msgid ""
+"Custom: Create your own levels that you want to change the offer, message "
+"can be customized for each level"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:221
+msgid "Level discount"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:238
+msgid "Display countdown timer on"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:249
+msgid ""
+"Select pages to show checkout countdown. Leave blank to show checkout "
+"countdown on all pages."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:265
+msgid "Title of Checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:277
+msgid "Open in new tab when clicking Checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:289
+msgid "Fontsize of Checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:301
+msgid "Text color of Checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:313
+msgid "Background color of Checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:331
+msgid "Title of Shop button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:343
+msgid "Open in new tab when clicking Shop button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:355
+msgid "Fontsize of Shop button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:367
+msgid "Text color of Shop button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:379
+msgid "Background color of Shop button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:398
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:482
+msgid "Checkout countdown message"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:409
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:493
+msgid "Message if missing offer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:417
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:501
+msgid ""
+"This message only shows during checkout countdown when a cart is updated so "
+"that the current cart is smaller than the minimum required value."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:424
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:508
+msgid "Shortcode available"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:429
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:513
+msgid "The countdown timer that you set up on 'Sales Countdown Timer' page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:432
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:516
+msgid "The checkout button"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:434
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:518
+msgid "The button go to store"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:436
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:520
+msgid "The discount in percentage. Not apply to 'Message if missing offer'"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:439
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:523
+msgid ""
+"The discount amount in currency. Not apply to 'Message if missing offer'"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:442
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:526
+msgid ""
+"The missing amount to get offer. Not apply to 'Checkout countdown message'"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:445
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:529
+msgid "The minimum cart total required to get offer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:448
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:532
+msgid "The current cart total without applying discount "
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:454
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:538
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1513
+msgid "Position"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:465
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:549
+msgid "Select Countdown timer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:571
+msgid "Test mode"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:578
+msgid ""
+"The checkout countdown will be applied only to Administrators for testing "
+"purpose"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:584
+msgid "Reset checkout countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:591
+msgid ""
+"Reset current checkout discount applied to your account when Test mode is "
+"enabled"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:601
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1576
+msgid "Save"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:663
+msgid "See your very first sales countdown timer "
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:663
+msgid "here."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:698
+msgid "From: "
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:702
+msgid "To: "
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:708
+msgid "Shortcode: "
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:711
+msgid "Copy shortcode"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:712
+msgid "Duplicate"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:713
+msgid "Remove"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:721
+msgid "General settings"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:728
+msgid "Name"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:736
+msgid "Schedule time for shortcode usage"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:740
+msgid ""
+"These values are used for shortcode only. To schedule sale for product "
+"please go to admin product."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:742
+msgid "From"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:761
+msgid "To"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:782
+msgid "Design"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:796
+msgid "Message"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:804
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1438
+msgid "The countdown timer that you set on tab design"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:807
+msgid ""
+"The countdown timer will not show if message does not include "
+"{countdown_timer}"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:811
+msgid "Time separator"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:814
+msgid "Blank"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:815
+msgid "Colon(:)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:816
+msgid "Comma(,)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:817
+msgid "Dot(.)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:821
+msgid "Datetime format style"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:824
+msgid "01 days 02 hrs 03 mins 04 secs"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:825
+msgid "01 days 02 hours 03 minutes 04 seconds"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:826
+msgid "01:02:03:04"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:827
+msgid "01d:02h:03m:04s"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:837
+msgid "Datetime unit position"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:840
+msgid "Top"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:841
+msgid "Bottom"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:845
+msgid "Animation style"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:848
+msgid "Default"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:849
+msgid "Slide"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:856
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:862
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:168
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:174
+msgid "days"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:857
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:169
+msgid "hrs"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:858
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:170
+msgid "mins"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:859
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:171
+msgid "secs"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:863
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:175
+msgid "hours"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:864
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:176
+msgid "minutes"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:865
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:177
+msgid "seconds"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:874
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:186
+msgid "d"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:875
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:187
+msgid "h"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:876
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:188
+msgid "m"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:877
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/frontend/shortcode.php:189
+msgid "s"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:883
+msgid "Display type"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:916
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:980
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1041
+msgid "01"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:924
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:988
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1048
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1115
+msgid "02"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:932
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:996
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1055
+msgid "03"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:940
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1004
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1062
+msgid "04"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1101
+msgid "10"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1129
+msgid "30"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1143
+msgid "40"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1172
+msgid "Use smooth animation for circle"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1174
+msgid ""
+"(*)Countdown timer items Border radius, Height and Width are not applied to "
+"this type."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1181
+msgid "Countdown timer"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1185
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1276
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1307
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1545
+msgid "Color"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1193
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1284
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1315
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1537
+msgid "Background"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1201
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1234
+msgid "Border color"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1210
+msgid "Padding(px)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1218
+msgid "Border radius"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1230
+msgid "Countdown timer items"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1242
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1553
+msgid "Border radius(px)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1250
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1528
+msgid "Height(px)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1258
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1521
+msgid "Width(px)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1272
+msgid "Datetime value"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1292
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1323
+msgid "Font size(px)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1303
+msgid "Datetime unit"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1336
+msgid "WooCommerce Product"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1343
+msgid "Make countdown timer sticky when scroll"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1353
+msgid "Position on single product page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1355
+msgid ""
+"Position of countdown timer of main product on single product page(Can not "
+"set position for variations)"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1358
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1374
+msgid "Before price"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1359
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1375
+msgid "After price"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1360
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1376
+msgid "Before sale flash"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1361
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1377
+msgid "After sale flash"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1362
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1378
+msgid "Before cart"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1363
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1379
+msgid "After cart"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1364
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1380
+msgid "Product image"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1369
+msgid "Position on archive page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1371
+msgid ""
+"Position of countdown timer on shop page, category page and related products"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1387
+msgid "Show on shop page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1397
+msgid "Show on category page"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1407
+msgid ""
+"Reduce size of countdown timer on shop/category page and on mobile(single "
+"product) by"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1419
+msgid "Upcoming sale"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1432
+msgid "Upcoming sale message"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1444
+msgid "Progress bar"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1446
+msgid "Progress bar message"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1466
+msgid "Progress bar type"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1468
+msgid ""
+"If select increase, the progress bar fill will increase each time the "
+"product is bought and vice versa"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1472
+msgid "Increase"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1473
+msgid "Decrease"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1478
+msgid "Order status"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1483
+msgid ""
+"When new order created, update the progress bar when order status are(leave "
+"blank to apply for all order status):"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1488
+msgid "Completed"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1491
+msgid "On-hold"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1494
+msgid "Pending"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1497
+msgid "Processing"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1500
+msgid "Failed"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1503
+msgid "Refunded"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1506
+msgid "Cancelled"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1516
+msgid "Above Countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1517
+msgid "Below Countdown"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1581
+msgid "Settings saved"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1648
+msgid "Can not remove all Countdown timer settings."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1653
+msgid "Names are unique."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1659
+msgid "Names can not be empty."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1667
+msgid "Data saved."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/admin.php:1844
+msgid "Settings"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:219
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:273
+msgid "Countdown timer profile"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:222
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:276
+msgid "Select countdown timer settings."
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:232
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:287
+msgid "Goal"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:232
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:287
+msgid "Your product goal"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:233
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:288
+msgid "Initial quantity"
+msgstr ""
+
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:233
+#: D:/git/free-version/sales-countdown-timer/sales-countdown-timer/admin/product.php:288
+msgid "This is the virtual quantity of sold products"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Create a sense of urgency with a countdown to the beginning or end of sales, "
+"store launch or other events for higher conversions."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://villatheme.com/extensions/sales-countdown-timer/"
+msgstr ""
+
+#. Author of the plugin
+msgid "VillaTheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://villatheme.com"
+msgstr ""

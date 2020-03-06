@@ -1,0 +1,206 @@
+2020-02-25T04:44:48+00:00 INFO Generating payment form for order 23. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-25T04:44:48+00:00 INFO PayPal Request Args for order 23: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/23/?key=wc_order_PNd236iSD1ciO&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_PNd236iSD1ciO&order_id=23&redirect&_wpnonce=66968983f9
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-23
+    [custom] => {"order_id":23,"order_key":"wc_order_PNd236iSD1ciO"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-25T04:48:31+00:00 INFO Generating payment form for order 23. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-25T04:48:31+00:00 INFO PayPal Request Args for order 23: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/23/?key=wc_order_PNd236iSD1ciO&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_PNd236iSD1ciO&order_id=23&redirect&_wpnonce=66968983f9
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-23
+    [custom] => {"order_id":23,"order_key":"wc_order_PNd236iSD1ciO"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Iphone 6
+    [quantity_1] => 1
+    [amount_1] => 12500
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-25T10:24:11+00:00 INFO Generating payment form for order 35. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-25T10:24:11+00:00 INFO PayPal Request Args for order 35: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/35/?key=wc_order_cjtPZ4NLa7ND0&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_cjtPZ4NLa7ND0&order_id=35&redirect&_wpnonce=66968983f9
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-35
+    [custom] => {"order_id":35,"order_key":"wc_order_cjtPZ4NLa7ND0"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [discount_amount_cart] => 50.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 1
+    [amount_1] => 1850
+    [item_number_1] => 
+    [item_name_2] => Iphone 6
+    [quantity_2] => 1
+    [amount_2] => 12500
+    [item_number_2] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-25T12:05:24+00:00 INFO Generating payment form for order 36. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-25T12:05:24+00:00 INFO PayPal Request Args for order 36: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/36/?key=wc_order_h9z7Joet3SsLn&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_h9z7Joet3SsLn&order_id=36&redirect&_wpnonce=9ab538f4a9
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-36
+    [custom] => {"order_id":36,"order_key":"wc_order_h9z7Joet3SsLn"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [discount_amount_cart] => 50.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 2
+    [amount_1] => 1850
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+
+2020-02-25T12:23:53+00:00 INFO Generating payment form for order 37. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-02-25T12:23:53+00:00 INFO PayPal Request Args for order 37: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/37/?key=wc_order_9JAIkG6wmrh4Q&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_9JAIkG6wmrh4Q&order_id=37&redirect&_wpnonce=9ab538f4a9
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-37
+    [custom] => {"order_id":37,"order_key":"wc_order_9JAIkG6wmrh4Q"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [discount_amount_cart] => 50.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 3
+    [amount_1] => 1850
+    [item_number_1] => 
+    [bn] => WooThemes_Cart
+)
+

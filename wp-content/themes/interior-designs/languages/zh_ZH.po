@@ -1,0 +1,627 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Designs\n"
+"Language-Team: ThemesCaliber <support@themescaliber.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: zh\n"
+
+#: 404.php:12
+msgid "404 Not Found"
+msgstr "找不到404"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip;"
+msgstr "看来您走错了路＆hellip;"
+
+#: 404.php:14 no-results.php:22
+msgid "Dont worry &hellip it happens to the best of us."
+msgstr "别担心＆hellip它发生在我们当中。"
+
+#: 404.php:16
+msgid "Return to Home Page"
+msgstr "返回首页"
+
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "一种关于“％s”的想法"
+
+#: comments.php:32
+msgid "comments title"
+msgstr "评论标题"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "评论被关闭。"
+
+#: footer.php:51 functions.php:104
+msgid "Copyright 2018"
+msgstr "版权2018"
+
+#: footer.php:58 footer.php:60 footer.php:62
+msgid "Back to Top"
+msgstr "回到顶部"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:36
+msgid "Facebook"
+msgstr "脸书"
+
+#: header.php:41
+msgid "Twitter"
+msgstr "推特"
+
+#: header.php:46
+msgid "Google Plus"
+msgstr "Google Plus"
+
+#: header.php:51
+msgid "Instagram"
+msgstr "Instagram的"
+
+#: header.php:56
+msgid "Linkedin"
+msgstr "领英"
+
+#: header.php:61
+msgid "Youtube"
+msgstr "优酷"
+
+#: header.php:140
+msgid "Open Menu"
+msgstr "开启选单"
+
+#: header.php:143
+msgid "Top Menu"
+msgstr "顶部菜单"
+
+#: header.php:144
+msgid "Close Menu"
+msgstr "关闭选单"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "没有发现"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "准备发布您的第一篇文章吗？从这里开始。"
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您的搜索条件。请使用其他不同的关键字再试一次。"
+
+#: no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "别担心，这对我们所有人来说都是偶然的。"
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "返回首页"
+
+#: searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "搜索"
+
+#: searchform.php:11
+msgid "Placeholder"
+msgstr "占位符"
+
+#: searchform.php:13
+msgid "Submit Button"
+msgstr "提交按钮"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "档案"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "元"
+
+#: functions.php:32 functions.php:109
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:91
+msgid "Welcome to Interior Designs."
+msgstr "欢迎来到室内设计。"
+
+#: functions.php:93
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: functions.php:94
+msgid "Location"
+msgstr "位置"
+
+#: functions.php:95
+msgid "Your City, Country"
+msgstr "您的城市，国家"
+
+#: functions.php:96
+msgid "8:00am - 5:00pm"
+msgstr "8:00 am-5:00 pm"
+
+#: functions.php:97
+msgid "Mon to Fri"
+msgstr "周一至周五"
+
+#: functions.php:134
+msgid "Blog Sidebar"
+msgstr "博客侧栏"
+
+#: functions.php:135
+msgid "Appears on blog page sidebar"
+msgstr "出现在博客页面侧栏上"
+
+#: functions.php:144
+msgid "Page Sidebar"
+msgstr "页面侧栏"
+
+#: functions.php:145 functions.php:155
+msgid "Appears on Page sidebar"
+msgstr "出现在页面侧栏上"
+
+#: functions.php:154
+msgid "Third Column Sidebar"
+msgstr "第三栏侧栏"
+
+#: functions.php:167
+msgid "Footer Nav "
+msgstr "页脚导航"
+
+#: functions.php:499
+msgid "Interior WordPress Theme"
+msgstr "室内WordPress主题"
+
+#: archive.php:42 archive.php:78 archive.php:113 archive.php:148
+#: archive.php:185 archive.php:224 archive.php:260 index.php:42 index.php:74
+#: index.php:105 index.php:136 index.php:169 index.php:201 index.php:231
+#: search.php:38 search.php:71 search.php:103 search.php:135 search.php:169
+#: search.php:205 search.php:238
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 index.php:43 index.php:75
+#: index.php:106 index.php:137 index.php:170 index.php:202 index.php:232
+#: search.php:39 search.php:72 search.php:104 search.php:136 search.php:170
+#: search.php:206 search.php:239
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 index.php:44 index.php:76
+#: index.php:107 index.php:138 index.php:171 index.php:203 index.php:233
+#: search.php:40 search.php:73 search.php:105 search.php:137 search.php:171
+#: search.php:207 search.php:240
+msgid "page"
+msgstr "页"
+
+#: image.php:36 image.php:72 image.php:108 image.php:144 image.php:182
+#: image.php:220 image.php:257 page.php:28 template-parts/single-post.php:34
+#: page-template/page-with-left-sidebar:25
+#: page-template/page-with-right-sidebar:22
+msgid "Pages:"
+msgstr "页数："
+
+#: image.php:41 image.php:77 image.php:113 image.php:149 image.php:187
+#: image.php:225 image.php:262
+msgid "Edit"
+msgstr "编辑"
+
+#: search.php:18 search.php:51 search.php:83 search.php:115 search.php:149
+#: search.php:183 search.php:218
+msgid "Results For: %s"
+msgstr "结果：％s"
+
+#: template-parts/single-post.php:48
+msgid "Parent post link"
+msgstr "父帖子链接"
+
+#: template-parts/single-post.php:53
+msgid "Next Post<i class=\"fas fa-chevron-right\"></i>"
+msgstr "下一篇文章<i class =“ fas fa-chevron-right”> </ i>"
+
+#: template-parts/single-post.php:54
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: template-parts/single-post.php:56
+msgid "<i class=\"fas fa-chevron-left\"></i>Previous Post"
+msgstr "<i class =“ fas fa-chevron-left”> </ i>上一篇文章"
+
+#: template-parts/single-post.php:57
+msgid "Previous post"
+msgstr "上一篇"
+
+#: template-parts/single-post.php:20 template-parts/content-audio.php:50
+#: template-parts/content-gallery.php:39 template-parts/content-image.php:34
+#: template-parts/content-video.php:49 template-parts/content.php:29
+#: template-parts/grid-layout:35
+msgid "0 Comments"
+msgstr "0条留言"
+
+#: page-template/custom-frontage.php:71
+msgid "Discover More"
+msgstr "发现更多"
+
+#: page-template/custom-frontage.php:46
+msgid "Previous"
+msgstr "以前"
+
+#: page-template/custom-frontage.php:49
+msgid "Next"
+msgstr "下一个"
+
+#: template-parts/content-audio.php:54 template-parts/content-gallery.php:43
+#: template-parts/content-image.php:37 template-parts/content-video.php:52
+#: template-parts/content.php:32 template-parts/grid-layout:38
+msgid "Read More"
+msgstr "阅读更多"
+
+#: inc/customizer.php:38
+msgid "Theme Settings"
+msgstr "主题设定"
+
+#: inc/customizer.php:39
+msgid "Description of what this panel does."
+msgstr "此面板功能的说明。"
+
+#: inc/customizer.php:44
+msgid "Theme Layout Settings"
+msgstr "主题布局设置"
+
+#: inc/customizer.php:50 inc/customizer.php:58
+msgid "Full Layout"
+msgstr "完整版面"
+
+#: inc/customizer.php:55
+msgid "Select Site Layout"
+msgstr "选择网站布局"
+
+#: inc/customizer.php:59
+msgid "Contained Layout"
+msgstr "包含布局"
+
+#: inc/customizer.php:60
+msgid "Boxed Layout"
+msgstr "盒装版式"
+
+#: inc/customizer.php:72
+msgid "Do you want this section."
+msgstr "您是否要此部分。"
+
+#: inc/customizer.php:75
+msgid "Left Sidebar"
+msgstr "左侧边栏"
+
+#: inc/customizer.php:66 inc/customizer.php:76
+msgid "Right Sidebar"
+msgstr "右侧边栏"
+
+#: inc/customizer.php:77
+msgid "One Column"
+msgstr "一栏"
+
+#: inc/customizer.php:78
+msgid "Three Columns"
+msgstr "三栏"
+
+#: inc/customizer.php:79
+msgid "Four Columns"
+msgstr "四列"
+
+#: inc/customizer.php:80
+msgid "Grid Layout"
+msgstr "网格布局"
+
+#: inc/customizer.php:182
+msgid "Color / Font Pallete"
+msgstr "颜色/字体托盘"
+
+#: inc/customizer.php:214
+msgid "Paragraph Color"
+msgstr "段落颜色"
+
+#: inc/customizer.php:228
+msgid "Paragraph Fonts"
+msgstr "段落字体"
+
+#: inc/customizer.php:238
+msgid "Paragraph Font Size"
+msgstr "段落字体大小"
+
+#: inc/customizer.php:250
+msgid "\"a\" Tag Color"
+msgstr "“ a”标签颜色"
+
+#: inc/customizer.php:264
+msgid "\"a\" Tag Fonts"
+msgstr "“ a”标签字体"
+
+#: inc/customizer.php:275
+msgid "\"li\" Tag Color"
+msgstr "“ li”标签颜色"
+
+#: inc/customizer.php:289
+msgid "\"li\" Tag Fonts"
+msgstr "“ li”标签字体"
+
+#: inc/customizer.php:300
+msgid "h1 Color"
+msgstr "h1颜色"
+
+#: inc/customizer.php:314
+msgid "h1 Fonts"
+msgstr "h1字体"
+
+#: inc/customizer.php:325
+msgid "h1 Font Size"
+msgstr "h1字体大小"
+
+#: inc/customizer.php:337
+msgid "h2 Color"
+msgstr "h2颜色"
+
+#: inc/customizer.php:351
+msgid "h2 Fonts"
+msgstr "h2字体"
+
+#: inc/customizer.php:362
+msgid "h2 Font Size"
+msgstr "h2字体大小"
+
+#: inc/customizer.php:374
+msgid "h3 Color"
+msgstr "h3颜色"
+
+#: inc/customizer.php:388
+msgid "h3 Fonts"
+msgstr "h3字体"
+
+#: inc/customizer.php:399
+msgid "h3 Font Size"
+msgstr "h3字体大小"
+
+#: inc/customizer.php:411
+msgid "h4 Color"
+msgstr "h4颜色"
+
+#: inc/customizer.php:425
+msgid "h4 Fonts"
+msgstr "h4字体"
+
+#: inc/customizer.php:436
+msgid "h4 Font Size"
+msgstr "h4字体大小"
+
+#: inc/customizer.php:448
+msgid "h5 Color"
+msgstr "h5颜色"
+
+#: inc/customizer.php:462
+msgid "h5 Fonts"
+msgstr "h5字体"
+
+#: inc/customizer.php:473
+msgid "h5 Font Size"
+msgstr "h5字体大小"
+
+#: inc/customizer.php:485
+msgid "h6 Color"
+msgstr "h6颜色"
+
+#: inc/customizer.php:499
+msgid "h6 Fonts"
+msgstr "h6字体"
+
+#: inc/customizer.php:510
+msgid "h6 Font Size"
+msgstr "h6字体大小"
+
+#: inc/customizer.php:518
+msgid "Top Header"
+msgstr "顶部标题"
+
+#: inc/customizer.php:519 inc/customizer.php:641
+msgid "Add Header Content here"
+msgstr "在此处添加标题内容"
+
+#: inc/customizer.php:531
+msgid "Show / Hide Topbar"
+msgstr "显示/隐藏顶部栏"
+
+#: inc/customizer.php:541
+msgid "Sticky Header"
+msgstr "粘页眉"
+
+#: inc/customizer.php:558
+msgid "Site Text"
+msgstr "网站文字"
+
+#: inc/customizer.php:577
+msgid "Add Facebook link"
+msgstr "添加Facebook链接"
+
+#: inc/customizer.php:588
+msgid "Add Twitter link"
+msgstr "添加Twitter链接"
+
+#: inc/customizer.php:599
+msgid "Add Google link"
+msgstr "添加Google链接"
+
+#: inc/customizer.php:610
+msgid "Add Instagram link"
+msgstr "添加Instagram链接"
+
+#: inc/customizer.php:621
+msgid "Add Linkedin link"
+msgstr "添加Linkedin链接"
+
+#: inc/customizer.php:632
+msgid "Add Youtube link"
+msgstr "添加Youtube链接"
+
+#: inc/customizer.php:659
+msgid "Call Text"
+msgstr "通话文字"
+
+#: inc/customizer.php:670
+msgid "Call No."
+msgstr "电话号码"
+
+#: inc/customizer.php:681
+msgid "Street Details"
+msgstr "街道明细"
+
+#: inc/customizer.php:692
+msgid "City Details"
+msgstr "城市详细资料"
+
+#: inc/customizer.php:703
+msgid "Time"
+msgstr "时间"
+
+#: inc/customizer.php:714
+msgid "Day"
+msgstr "天"
+
+#: inc/customizer.php:722
+msgid "Slider Settings."
+msgstr "滑块设置。"
+
+#: inc/customizer.php:741
+msgid "Show / Hide slider"
+msgstr "显示/隐藏滑块"
+
+#: inc/customizer.php:753
+msgid "Select Slide Image Page"
+msgstr "选择幻灯片图像页面"
+
+#: inc/customizer.php:761
+msgid "Discover Section"
+msgstr "发现部分"
+
+#: inc/customizer.php:762
+msgid "Add About sections below."
+msgstr "在下面添加关于部分。"
+
+#: inc/customizer.php:788
+msgid "Select post"
+msgstr "选择帖子"
+
+#: inc/customizer.php:794
+msgid "Services Section"
+msgstr "服务科"
+
+#: inc/customizer.php:795
+msgid "This section will appear below the slider."
+msgstr "此部分将显示在滑块下方。"
+
+#: inc/customizer.php:812
+msgid "Section Title"
+msgstr "节标题"
+
+#: inc/customizer.php:823
+msgid "Section Sub-Title"
+msgstr "部分标题"
+
+#: inc/customizer.php:848
+msgid "Select Category to display Latest Post"
+msgstr "选择类别以显示最新帖子"
+
+#: inc/customizer.php:854
+msgid "Post Settings"
+msgstr "发布设置"
+
+#: inc/customizer.php:864
+msgid "Enable / Disable Post Date"
+msgstr "启用/禁用发布日期"
+
+#: inc/customizer.php:874
+msgid "Enable / Disable Post Author"
+msgstr "启用/禁用帖子作者"
+
+#: inc/customizer.php:884
+msgid "Enable / Disable Post Comments"
+msgstr "启用/禁用帖子评论"
+
+#: inc/customizer.php:890
+msgid "Footer Text"
+msgstr "页脚文字"
+
+#: inc/customizer.php:910
+msgid "Show/Hide Back to Top Button"
+msgstr "显示/隐藏返回顶部按钮"
+
+#: inc/customizer.php:915 inc/customizer.php:924
+msgid "Right"
+msgstr "对"
+
+#: inc/customizer.php:920
+msgid "Back to Top Button Alignment"
+msgstr "返回页首按钮对齐"
+
+#: inc/customizer.php:923
+msgid "Left"
+msgstr "剩下"
+
+#: inc/customizer.php:925
+msgid "Center"
+msgstr "中央"
+
+#: inc/customizer.php:935
+msgid "Footer widget layout"
+msgstr "页脚小部件布局"
+
+#: inc/customizer.php:937
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"在页脚中选择所需的小部件区域数。之后，转到外观>小部件并添加您的小部件。"
+
+#: inc/customizer.php:939
+msgid "One"
+msgstr "一"
+
+#: inc/customizer.php:940
+msgid "Two"
+msgstr "二"
+
+#: inc/customizer.php:941
+msgid "Three"
+msgstr "三"
+
+#: inc/customizer.php:942
+msgid "Four"
+msgstr "四个"
+
+#: inc/customizer.php:959
+msgid "Copyright Text"
+msgstr "版权文字"
+
+#: inc/customizer.php:1046
+msgid "Interior Pro Theme"
+msgstr "室内专业主题"
+
+#: inc/customizer.php:1047
+msgid "Go Pro"
+msgstr "专业版"

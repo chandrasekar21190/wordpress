@@ -1,0 +1,48 @@
+2020-03-02T04:20:55+00:00 INFO Generating payment form for order 245. Notify URL: http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+2020-03-02T04:20:56+00:00 INFO PayPal Request Args for order 245: Array
+(
+    [cmd] => _cart
+    [business] => chandrasekar@digitalseo.in
+    [no_note] => 1
+    [currency_code] => INR
+    [charset] => utf-8
+    [rm] => 1
+    [upload] => 1
+    [return] => http://localhost/wordpress/checkout/order-received/245/?key=wc_order_UmqCKzhP1tTJI&utm_nooverride=1
+    [cancel_return] => http://localhost/wordpress/cart/?cancel_order=true&order=wc_order_UmqCKzhP1tTJI&order_id=245&redirect&_wpnonce=535e73cbfb
+    [page_style] => 
+    [image_url] => 
+    [paymentaction] => sale
+    [invoice] => WC-245
+    [custom] => {"order_id":245,"order_key":"wc_order_UmqCKzhP1tTJI"}
+    [notify_url] => http://localhost/wordpress/wc-api/WC_Gateway_Paypal/
+    [first_name] => ***
+    [last_name] => ***
+    [address1] => ***
+    [address2] => ***
+    [city] => ***
+    [state] => ***
+    [zip] => ***
+    [country] => ***
+    [email] => ***@***
+    [night_phone_a] => ***
+    [night_phone_b] => ***
+    [address_override] => 0
+    [no_shipping] => 0
+    [tax_cart] => 0.00
+    [shipping_1] => 30.00
+    [item_name_1] => Smart Watch
+    [quantity_1] => 3
+    [amount_1] => 1850
+    [item_number_1] => 
+    [item_name_2] => Head Phones - Blue
+    [quantity_2] => 1
+    [amount_2] => 1850
+    [item_number_2] => 
+    [item_name_3] => Iphone 6
+    [quantity_3] => 1
+    [amount_3] => 12500
+    [item_number_3] => 
+    [bn] => WooThemes_Cart
+)
+

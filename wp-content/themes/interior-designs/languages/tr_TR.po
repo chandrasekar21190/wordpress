@@ -1,0 +1,630 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Interior Designs\n"
+"Language-Team: ThemesCaliber <support@themescaliber.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: tr\n"
+
+#: 404.php:12
+msgid "404 Not Found"
+msgstr "404 Bulunamadı"
+
+#: 404.php:13
+msgid "Looks like you have taken a wrong turn&hellip;"
+msgstr "Görünüşe göre yanlış bir dönüş yapmışsın & hellip;"
+
+#: 404.php:14 no-results.php:22
+msgid "Dont worry &hellip it happens to the best of us."
+msgstr "Endişelenme ve hellip bu en iyi şekilde olur."
+
+#: 404.php:16
+msgid "Return to Home Page"
+msgstr "Ana Sayfaya Dön"
+
+#: comments.php:22
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Üzerine bir düşünce & ldquo;% s & rdquo;"
+
+#: comments.php:32
+msgid "comments title"
+msgstr "yorum başlığı"
+
+#: comments.php:57
+msgid "Comments are closed."
+msgstr "Yoruma kapalı."
+
+#: footer.php:51 functions.php:104
+msgid "Copyright 2018"
+msgstr "Telif Hakkı 2018"
+
+#: footer.php:58 footer.php:60 footer.php:62
+msgid "Back to Top"
+msgstr "Başa dönüş"
+
+#: header.php:20
+msgid "Skip to content"
+msgstr "İçeriğe geç"
+
+#: header.php:36
+msgid "Facebook"
+msgstr "Facebook"
+
+#: header.php:41
+msgid "Twitter"
+msgstr "heyecan"
+
+#: header.php:46
+msgid "Google Plus"
+msgstr "Google artı"
+
+#: header.php:51
+msgid "Instagram"
+msgstr "Instagram"
+
+#: header.php:56
+msgid "Linkedin"
+msgstr "Linkedin"
+
+#: header.php:61
+msgid "Youtube"
+msgstr "Youtube"
+
+#: header.php:140
+msgid "Open Menu"
+msgstr "Menüyü Aç"
+
+#: header.php:143
+msgid "Top Menu"
+msgstr "Üst Menü"
+
+#: header.php:144
+msgid "Close Menu"
+msgstr "Menüyü Kapat"
+
+#: no-results.php:12
+msgid "Nothing Found"
+msgstr "Hiçbirşey Bulunamadı"
+
+#: no-results.php:17
+msgid "Ready to publish your first post? Get started here."
+msgstr "İlk paylaşımını yapmak için hazır mısın? Buradan başla."
+
+#: no-results.php:19
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Maalesef arama terimlerinizle hiçbir şey eşleşmedi. Lütfen farklı anahtar "
+"kelimelerle tekrar deneyin."
+
+#: no-results.php:22
+msgid "Dont worry&hellip it happens to the best of us."
+msgstr "Endişelenme ve hellip o en iyimize olur."
+
+#: no-results.php:24
+msgid "Back to Home Page"
+msgstr "Ana sayfaya geri dön"
+
+#: searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "Arama"
+
+#: searchform.php:11
+msgid "Placeholder"
+msgstr "Yer tutucu"
+
+#: searchform.php:13
+msgid "Submit Button"
+msgstr "Gönder Düğmesi"
+
+#: sidebar.php:12
+msgid "Archives"
+msgstr "arşiv"
+
+#: sidebar.php:18
+msgid "Meta"
+msgstr "Meta"
+
+#: functions.php:32 functions.php:109
+msgid "Primary Menu"
+msgstr "Ana Menü"
+
+#: functions.php:91
+msgid "Welcome to Interior Designs."
+msgstr "İç Tasarımlara Hoş Geldiniz."
+
+#: functions.php:93
+msgid "example@gmail.com"
+msgstr "example@gmail.com"
+
+#: functions.php:94
+msgid "Location"
+msgstr "yer"
+
+#: functions.php:95
+msgid "Your City, Country"
+msgstr "Şehriniz, Ülkeniz"
+
+#: functions.php:96
+msgid "8:00am - 5:00pm"
+msgstr "08:00 - 17:00"
+
+#: functions.php:97
+msgid "Mon to Fri"
+msgstr "Pzt - Cum"
+
+#: functions.php:134
+msgid "Blog Sidebar"
+msgstr "Blog Kenar Çubuğu"
+
+#: functions.php:135
+msgid "Appears on blog page sidebar"
+msgstr "Blog sayfası kenar çubuğunda görünür"
+
+#: functions.php:144
+msgid "Page Sidebar"
+msgstr "Sayfa Kenar Çubuğu"
+
+#: functions.php:145 functions.php:155
+msgid "Appears on Page sidebar"
+msgstr "Sayfa kenar çubuğunda görünür"
+
+#: functions.php:154
+msgid "Third Column Sidebar"
+msgstr "Üçüncü Sütun Kenar Çubuğu"
+
+#: functions.php:167
+msgid "Footer Nav "
+msgstr "Altbilgi Gezintisi"
+
+#: functions.php:499
+msgid "Interior WordPress Theme"
+msgstr "İç WordPress Teması"
+
+#: archive.php:42 archive.php:78 archive.php:113 archive.php:148
+#: archive.php:185 archive.php:224 archive.php:260 index.php:42 index.php:74
+#: index.php:105 index.php:136 index.php:169 index.php:201 index.php:231
+#: search.php:38 search.php:71 search.php:103 search.php:135 search.php:169
+#: search.php:205 search.php:238
+msgid "Previous page"
+msgstr "Önceki sayfa"
+
+#: archive.php:43 archive.php:79 archive.php:114 archive.php:149
+#: archive.php:186 archive.php:225 archive.php:261 index.php:43 index.php:75
+#: index.php:106 index.php:137 index.php:170 index.php:202 index.php:232
+#: search.php:39 search.php:72 search.php:104 search.php:136 search.php:170
+#: search.php:206 search.php:239
+msgid "Next page"
+msgstr "Sonraki Sayfa"
+
+#: archive.php:44 archive.php:80 archive.php:115 archive.php:150
+#: archive.php:187 archive.php:226 archive.php:262 index.php:44 index.php:76
+#: index.php:107 index.php:138 index.php:171 index.php:203 index.php:233
+#: search.php:40 search.php:73 search.php:105 search.php:137 search.php:171
+#: search.php:207 search.php:240
+msgid "page"
+msgstr "sayfa"
+
+#: image.php:36 image.php:72 image.php:108 image.php:144 image.php:182
+#: image.php:220 image.php:257 page.php:28 template-parts/single-post.php:34
+#: page-template/page-with-left-sidebar:25
+#: page-template/page-with-right-sidebar:22
+msgid "Pages:"
+msgstr "Sayfalar:"
+
+#: image.php:41 image.php:77 image.php:113 image.php:149 image.php:187
+#: image.php:225 image.php:262
+msgid "Edit"
+msgstr "Düzenle"
+
+#: search.php:18 search.php:51 search.php:83 search.php:115 search.php:149
+#: search.php:183 search.php:218
+msgid "Results For: %s"
+msgstr "Sonuçlar:% s"
+
+#: template-parts/single-post.php:48
+msgid "Parent post link"
+msgstr "Üst posta bağlantısı"
+
+#: template-parts/single-post.php:53
+msgid "Next Post<i class=\"fas fa-chevron-right\"></i>"
+msgstr "Sonraki Yazı <i class = \"fas fa-chevron-right\"> </i>"
+
+#: template-parts/single-post.php:54
+msgid "Next Post"
+msgstr "Sonraki Gönderi"
+
+#: template-parts/single-post.php:56
+msgid "<i class=\"fas fa-chevron-left\"></i>Previous Post"
+msgstr "<i class = \"fas fa-chevron-left\"> </i> Önceki Yazı"
+
+#: template-parts/single-post.php:57
+msgid "Previous post"
+msgstr "Önceki yazı"
+
+#: template-parts/single-post.php:20 template-parts/content-audio.php:50
+#: template-parts/content-gallery.php:39 template-parts/content-image.php:34
+#: template-parts/content-video.php:49 template-parts/content.php:29
+#: template-parts/grid-layout:35
+msgid "0 Comments"
+msgstr "0 Yorum"
+
+#: page-template/custom-frontage.php:71
+msgid "Discover More"
+msgstr "Daha fazlasını keşfet"
+
+#: page-template/custom-frontage.php:46
+msgid "Previous"
+msgstr "Önceki"
+
+#: page-template/custom-frontage.php:49
+msgid "Next"
+msgstr "Sonraki"
+
+#: template-parts/content-audio.php:54 template-parts/content-gallery.php:43
+#: template-parts/content-image.php:37 template-parts/content-video.php:52
+#: template-parts/content.php:32 template-parts/grid-layout:38
+msgid "Read More"
+msgstr "Daha fazla oku"
+
+#: inc/customizer.php:38
+msgid "Theme Settings"
+msgstr "Tema ayarları"
+
+#: inc/customizer.php:39
+msgid "Description of what this panel does."
+msgstr "Bu panelin ne yaptığının açıklaması."
+
+#: inc/customizer.php:44
+msgid "Theme Layout Settings"
+msgstr "Tema Düzeni Ayarları"
+
+#: inc/customizer.php:50 inc/customizer.php:58
+msgid "Full Layout"
+msgstr "Tam Düzen"
+
+#: inc/customizer.php:55
+msgid "Select Site Layout"
+msgstr "Site Düzeni Seçin"
+
+#: inc/customizer.php:59
+msgid "Contained Layout"
+msgstr "İçerilen Düzen"
+
+#: inc/customizer.php:60
+msgid "Boxed Layout"
+msgstr "Kutulu Düzen"
+
+#: inc/customizer.php:72
+msgid "Do you want this section."
+msgstr "Bu bölümü istiyor musunuz?"
+
+#: inc/customizer.php:75
+msgid "Left Sidebar"
+msgstr "Sol Kenar Çubuğu"
+
+#: inc/customizer.php:66 inc/customizer.php:76
+msgid "Right Sidebar"
+msgstr "Sağ Kenar Çubuğu"
+
+#: inc/customizer.php:77
+msgid "One Column"
+msgstr "Bir Sütun"
+
+#: inc/customizer.php:78
+msgid "Three Columns"
+msgstr "Üç Sütun"
+
+#: inc/customizer.php:79
+msgid "Four Columns"
+msgstr "Dört Sütun"
+
+#: inc/customizer.php:80
+msgid "Grid Layout"
+msgstr "Grid Layout"
+
+#: inc/customizer.php:182
+msgid "Color / Font Pallete"
+msgstr "Renk / Yazı Tipi Paleti"
+
+#: inc/customizer.php:214
+msgid "Paragraph Color"
+msgstr "Paragraf Rengi"
+
+#: inc/customizer.php:228
+msgid "Paragraph Fonts"
+msgstr "Paragraf Fontları"
+
+#: inc/customizer.php:238
+msgid "Paragraph Font Size"
+msgstr "Paragraf Yazı Tipi Boyutu"
+
+#: inc/customizer.php:250
+msgid "\"a\" Tag Color"
+msgstr "\"a\" Etiket Rengi"
+
+#: inc/customizer.php:264
+msgid "\"a\" Tag Fonts"
+msgstr "\"a\" Etiket Fontları"
+
+#: inc/customizer.php:275
+msgid "\"li\" Tag Color"
+msgstr "\"li\" Etiket Rengi"
+
+#: inc/customizer.php:289
+msgid "\"li\" Tag Fonts"
+msgstr "\"li\" Etiket Fontları"
+
+#: inc/customizer.php:300
+msgid "h1 Color"
+msgstr "h1 Renk"
+
+#: inc/customizer.php:314
+msgid "h1 Fonts"
+msgstr "h1 Yazı Tipleri"
+
+#: inc/customizer.php:325
+msgid "h1 Font Size"
+msgstr "h1 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:337
+msgid "h2 Color"
+msgstr "h2 Renk"
+
+#: inc/customizer.php:351
+msgid "h2 Fonts"
+msgstr "h2 Yazı Tipleri"
+
+#: inc/customizer.php:362
+msgid "h2 Font Size"
+msgstr "h2 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:374
+msgid "h3 Color"
+msgstr "h3 Renk"
+
+#: inc/customizer.php:388
+msgid "h3 Fonts"
+msgstr "h3 Yazı Tipleri"
+
+#: inc/customizer.php:399
+msgid "h3 Font Size"
+msgstr "h3 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:411
+msgid "h4 Color"
+msgstr "h4 Renk"
+
+#: inc/customizer.php:425
+msgid "h4 Fonts"
+msgstr "h4 Yazı Tipleri"
+
+#: inc/customizer.php:436
+msgid "h4 Font Size"
+msgstr "h4 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:448
+msgid "h5 Color"
+msgstr "h5 Renk"
+
+#: inc/customizer.php:462
+msgid "h5 Fonts"
+msgstr "h5 Yazı Tipleri"
+
+#: inc/customizer.php:473
+msgid "h5 Font Size"
+msgstr "h5 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:485
+msgid "h6 Color"
+msgstr "h6 Renk"
+
+#: inc/customizer.php:499
+msgid "h6 Fonts"
+msgstr "h6 Yazı Tipleri"
+
+#: inc/customizer.php:510
+msgid "h6 Font Size"
+msgstr "h6 Yazı Tipi Boyutu"
+
+#: inc/customizer.php:518
+msgid "Top Header"
+msgstr "Üst Başlık"
+
+#: inc/customizer.php:519 inc/customizer.php:641
+msgid "Add Header Content here"
+msgstr "Buraya Başlık İçeriği ekleyin"
+
+#: inc/customizer.php:531
+msgid "Show / Hide Topbar"
+msgstr "Üst Çubuğu Göster / Gizle"
+
+#: inc/customizer.php:541
+msgid "Sticky Header"
+msgstr "Yapışkan Başlık"
+
+#: inc/customizer.php:558
+msgid "Site Text"
+msgstr "Site Metni"
+
+#: inc/customizer.php:577
+msgid "Add Facebook link"
+msgstr "Facebook bağlantısı ekle"
+
+#: inc/customizer.php:588
+msgid "Add Twitter link"
+msgstr "Twitter bağlantısı ekle"
+
+#: inc/customizer.php:599
+msgid "Add Google link"
+msgstr "Google bağlantısı ekle"
+
+#: inc/customizer.php:610
+msgid "Add Instagram link"
+msgstr "Instagram bağlantısı ekle"
+
+#: inc/customizer.php:621
+msgid "Add Linkedin link"
+msgstr "Linkedin bağlantısı ekle"
+
+#: inc/customizer.php:632
+msgid "Add Youtube link"
+msgstr "Youtube bağlantısı ekle"
+
+#: inc/customizer.php:659
+msgid "Call Text"
+msgstr "Çağrı Metni"
+
+#: inc/customizer.php:670
+msgid "Call No."
+msgstr "Çağrı No."
+
+#: inc/customizer.php:681
+msgid "Street Details"
+msgstr "Sokak Detayları"
+
+#: inc/customizer.php:692
+msgid "City Details"
+msgstr "Şehir Detayları"
+
+#: inc/customizer.php:703
+msgid "Time"
+msgstr "zaman"
+
+#: inc/customizer.php:714
+msgid "Day"
+msgstr "Gün"
+
+#: inc/customizer.php:722
+msgid "Slider Settings."
+msgstr "Kaydırıcı Ayarları."
+
+#: inc/customizer.php:741
+msgid "Show / Hide slider"
+msgstr "Kaydırıcıyı Göster / Gizle"
+
+#: inc/customizer.php:753
+msgid "Select Slide Image Page"
+msgstr "Slayt Görüntüsü Sayfasını Seçin"
+
+#: inc/customizer.php:761
+msgid "Discover Section"
+msgstr "Bölümü Keşfet"
+
+#: inc/customizer.php:762
+msgid "Add About sections below."
+msgstr "Aşağıdaki Hakkında bölümlerini ekleyin."
+
+#: inc/customizer.php:788
+msgid "Select post"
+msgstr "Gönderi seç"
+
+#: inc/customizer.php:794
+msgid "Services Section"
+msgstr "Hizmetler Bölümü"
+
+#: inc/customizer.php:795
+msgid "This section will appear below the slider."
+msgstr "Bu bölüm kaydırıcının altında görünecektir."
+
+#: inc/customizer.php:812
+msgid "Section Title"
+msgstr "Bölüm başlığı"
+
+#: inc/customizer.php:823
+msgid "Section Sub-Title"
+msgstr "Bölüm Altyazısı"
+
+#: inc/customizer.php:848
+msgid "Select Category to display Latest Post"
+msgstr "Son Gönderiyi görüntülemek için Kategori seçin"
+
+#: inc/customizer.php:854
+msgid "Post Settings"
+msgstr "Kayıt Ayarları"
+
+#: inc/customizer.php:864
+msgid "Enable / Disable Post Date"
+msgstr "Kayıt Tarihini Etkinleştir / Devre Dışı Bırak"
+
+#: inc/customizer.php:874
+msgid "Enable / Disable Post Author"
+msgstr "Yazı Yazarını Etkinleştir / Devre Dışı Bırak"
+
+#: inc/customizer.php:884
+msgid "Enable / Disable Post Comments"
+msgstr "Yayın Yorumlarını Etkinleştir / Devre Dışı Bırak"
+
+#: inc/customizer.php:890
+msgid "Footer Text"
+msgstr "Altbilgi metni"
+
+#: inc/customizer.php:910
+msgid "Show/Hide Back to Top Button"
+msgstr "Başa Dön Düğmesini Göster / Gizle"
+
+#: inc/customizer.php:915 inc/customizer.php:924
+msgid "Right"
+msgstr "Sağ"
+
+#: inc/customizer.php:920
+msgid "Back to Top Button Alignment"
+msgstr "Başa Dön Düğme Hizalama"
+
+#: inc/customizer.php:923
+msgid "Left"
+msgstr "Ayrıldı"
+
+#: inc/customizer.php:925
+msgid "Center"
+msgstr "merkez"
+
+#: inc/customizer.php:935
+msgid "Footer widget layout"
+msgstr "Altbilgi widget'ı düzeni"
+
+#: inc/customizer.php:937
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"Altbilgide istediğiniz widget alanı sayısını seçin. Bundan sonra Görünüm> "
+"Widget'lar'a gidin ve widget'larınızı ekleyin."
+
+#: inc/customizer.php:939
+msgid "One"
+msgstr "Bir"
+
+#: inc/customizer.php:940
+msgid "Two"
+msgstr "İki"
+
+#: inc/customizer.php:941
+msgid "Three"
+msgstr "Üç"
+
+#: inc/customizer.php:942
+msgid "Four"
+msgstr "dört"
+
+#: inc/customizer.php:959
+msgid "Copyright Text"
+msgstr "Telif Hakkı Metni"
+
+#: inc/customizer.php:1046
+msgid "Interior Pro Theme"
+msgstr "Interior Pro Teması"
+
+#: inc/customizer.php:1047
+msgid "Go Pro"
+msgstr "Profesyonel Olun"
